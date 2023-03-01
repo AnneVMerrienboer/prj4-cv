@@ -16,6 +16,7 @@ body {
 
 .resume-header {
     background-color: #434A59;
+	color:#F2F2F0
 }
 
 .resume-main {
@@ -24,6 +25,8 @@ body {
 
 .resume-aside {
 	background-color: #7F3800;
+	color: #F2F2F0
+	
 }
 
 /* Styles for lists in the document */
