@@ -1,15 +1,14 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-   @import url("https://use.typekit.net/paj3rud.css");
-
+   @import url("https://use.typekit.net/mgg8hlf.css");
 
 /* Styles for the body */
 
 body {
-	font-family: "aileron", sans-serif;
-	color: #000000;
-	background-color: #f8f8fc;
+	font-family: "fira-sans", sans-serif;
+	font-weight: 400;
+	font-style: normal;
 
 }
 
@@ -20,8 +19,28 @@ body {
 	color:#F2F2F0
 }
 
+.name {
+	font-family: "apoline", serif;
+	color: #F2F2F0;
+	font-weight: 700;
+	font-style: normal;
+	
+}
+
 .resume-main {
 	background-color: #F2F2F0;
+}
+
+.headers {
+	font-family: "aileron", sans-serif;
+	font-weight: 800;
+	font-style: normal;
+}
+
+.subheaders {
+	font-family: "fira-sans", sans-serif;
+	font-weight: 100;
+	font-style: normal;
 }
 
 .resume-aside {
